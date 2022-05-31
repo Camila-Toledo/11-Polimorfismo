@@ -1,6 +1,6 @@
 package br.com.glandata.polimorfismo;
 
-import br.com.glandata.service.ControleBonificacao;
+import br.com.glandata.polimorfismo.service.ControleBonificacao;
 import br.com.glantada.polimorfismo.model.Designer;
 import br.com.glantada.polimorfismo.model.EditorVideo;
 import br.com.glantada.polimorfismo.model.Gerente;
